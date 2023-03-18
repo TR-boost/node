@@ -6,6 +6,7 @@ const Sequelize = require('sequelize');
 const basename = path.basename(__filename);
 const env = process.env.NODE_ENV || 'local';
 const initModels = require('./init-models').initModels;
+cont thskd= starkexgit
 const config = require('../../config/config.json')[env];
 // require('../config/')
 const db = {};
