@@ -4,7 +4,8 @@
   "description": "shja",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "npm start",
+    "start": "scripts"
   },
   "author": "tulsiram",
   "license": "ISC"
